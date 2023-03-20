@@ -1,0 +1,754 @@
+
+    MoveMouseTo( 32648,21744)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击选择类型
+    
+    MoveMouseTo( 30326,29093)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击僵尸番外
+    
+    MoveMouseTo( 27525,39054)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 地图选择
+    
+    MoveMouseTo( 40298,29214)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 法老
+    
+    MoveMouseTo( 39683,33162)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击中途加入
+    
+    MoveMouseTo( 41493,36867)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击关闭观战
+    
+    MoveMouseTo( 25169,45006)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击开启密码
+    
+    MoveMouseTo( 28243,48286)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    PressKey("1") Sleep(64)
+    ReleaseKey("1") Sleep(64) 
+    PressKey("2") Sleep(64) 
+    ReleaseKey("2") Sleep(64) 
+    PressKey("0") Sleep(64) 
+    ReleaseKey("0") Sleep(64) 
+    PressKey("6") Sleep(64) 
+    ReleaseKey("6") Sleep(64) 
+    
+    
+    --Comment 确认进入房间
+    
+    MoveMouseTo( 29745,54420)
+    Sleep(500) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64)
+    
+    --Comment 点击开始游戏
+    
+    MoveMouseTo( 53691,41688 )
+    Sleep(500) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    MoveMouseRelative( 1, 1)
+    Sleep(64) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    Sleep(200)
+    PressKey("enter") Sleep(200)
+    ReleaseKey("enter")Sleep(200)
+    PressKey("enter")Sleep(200)
+    ReleaseKey("enter")Sleep(200)
+    Sleep(200)
+    
+    
+    
+    Sleep(52000)     --进图动画
+    
+    PressKey("W") Sleep(3200) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( -1120, -10)
+    PressKey("W") Sleep(100)
+    PressMouseButton(1) Sleep(100)
+    Sleep(200)
+    PressKey("T") Sleep(100)
+    PressKey("6") Sleep(100)
+    ReleaseKey("6") Sleep(100)
+    ReleaseKey("T") Sleep(100)
+    Sleep(1140) 
+    MoveMouseRelative( 0, 20)
+    Sleep(1650) 
+    MoveMouseRelative( 0, 50)
+    PressKey("T") Sleep(50)
+    PressKey("3") Sleep(50)
+    Sleep(970) 
+    MoveMouseRelative( 0, 100)
+    Sleep(1455) 
+    MoveMouseRelative( 0, -100)
+    Sleep(1940) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( -250, 0)
+    PressKey("W") Sleep(64)
+    Sleep(3500) 
+    ReleaseMouseButton(1) Sleep(64)
+    ReleaseKey("W") Sleep(64)
+    Sleep(16000) 
+    
+    --Comment 到三基佬
+    
+    
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    
+    Sleep(2100) 
+    
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    Sleep(1000) 
+    PressMouseButton(1) Sleep(100)
+    Sleep(1000) 
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    Sleep(300)
+    PressKey("W") Sleep(100)
+    PressKey("D") Sleep(725) 
+    ReleaseKey("D") Sleep(100)
+    PressMouseButton(1) Sleep(100)
+    Sleep(1100) 
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    Sleep(2300) 
+    Sleep(800) 
+    
+    Sleep(50)   --100
+    
+    MoveMouseRelative( -1000, 50)
+    Sleep(200)
+    
+    PressMouseButton(1) Sleep(30)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    Sleep(1100) 
+    Sleep(700) 
+    MoveMouseRelative( 990, 0)
+    Sleep(2500) 
+    ReleaseKey("W") Sleep(100)
+    
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    MoveMouseRelative( 20, -40)
+    Sleep(3000) 
+    MoveMouseRelative( -20, 40)
+    PressKey("W") Sleep(300)
+    ReleaseMouseButton(1) Sleep(100)
+    
+    Sleep(2300)    --2500 控制打完大锤往里走的距离，打不开火把改这
+    
+    MoveMouseRelative( 1250, 0)
+    Sleep(1500) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( 1250, 0)
+    PressKey("W") Sleep(200)
+    PressKey("A") Sleep(200)
+    Sleep(200)
+    ReleaseKey("A") Sleep(0) 
+    ReleaseKey("W") Sleep(0) 
+    
+    PressKey("E") Sleep(100)    --火把
+    
+    ReleaseKey("W") Sleep(100)
+    Sleep(10000) 
+    ReleaseKey("E") Sleep(64)
+    Sleep(11000) 
+    PressKey("S") Sleep(460) 
+    ReleaseKey("S") Sleep(64)
+    MoveMouseRelative( -1250, -100)
+    PressKey("W") Sleep(1550) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( 500, 0)
+    Sleep(64)
+    
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    Sleep(100)
+    MoveMouseRelative( -500, 100)
+    PressKey("W") Sleep(200)
+    
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    ReleaseKey("W") Sleep(64)
+    Sleep(200)
+    PressKey("E") Sleep(100)
+    
+    PressKey("T") Sleep(100)
+    PressKey("3") Sleep(100)
+    ReleaseKey("3") Sleep(100)
+    ReleaseKey("T") Sleep(100)
+    PressKey("T") Sleep(100)
+    PressKey("3") Sleep(100)
+    ReleaseKey("3") Sleep(100)
+    ReleaseKey("T") Sleep(100)
+    
+    PressKey("4") Sleep(100)
+    ReleaseKey("4") Sleep(100)
+    PressKey("4") Sleep(100)
+    ReleaseKey("4") Sleep(100)
+    
+    Sleep(4600) 
+    ReleaseKey("E") Sleep(64)
+    MoveMouseTo( 32648,21744)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击选择类型
+    
+    MoveMouseTo( 30326,29093)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击僵尸番外
+    
+    MoveMouseTo( 27525,39054)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 地图选择
+    
+    MoveMouseTo( 40298,29214)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 法老
+    
+    MoveMouseTo( 39683,33162)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击中途加入
+    
+    MoveMouseTo( 41493,36867)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击关闭观战
+    
+    MoveMouseTo( 25169,45006)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击开启密码
+    
+    MoveMouseTo( 28243,48286)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    PressKey("1") Sleep(64)
+    ReleaseKey("1") Sleep(64) 
+    PressKey("2") Sleep(64) 
+    ReleaseKey("2") Sleep(64) 
+    PressKey("0") Sleep(64) 
+    ReleaseKey("0") Sleep(64) 
+    PressKey("6") Sleep(64) 
+    ReleaseKey("6") Sleep(64) 
+    
+    
+    --Comment 确认进入房间
+    
+    MoveMouseTo( 29745,54420)
+    Sleep(500) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64)
+    
+    --Comment 点击开始游戏
+    
+    MoveMouseTo( 53691,41688 )
+    Sleep(500) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    MoveMouseRelative( 1, 1)
+    Sleep(64) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    Sleep(200)
+    PressKey("enter") Sleep(200)
+    ReleaseKey("enter")Sleep(200)
+    PressKey("enter")Sleep(200)
+    ReleaseKey("enter")Sleep(200)
+    Sleep(200)
+    
+    
+    
+    Sleep(52000)     --进图动画
+    
+    PressKey("W") Sleep(3200) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( -1120, -10)
+    PressKey("W") Sleep(100)
+    PressMouseButton(1) Sleep(100)
+    Sleep(200)
+    PressKey("T") Sleep(100)
+    PressKey("6") Sleep(100)
+    ReleaseKey("6") Sleep(100)
+    ReleaseKey("T") Sleep(100)
+    Sleep(1140) 
+    MoveMouseRelative( 0, 20)
+    Sleep(1650) 
+    MoveMouseRelative( 0, 50)
+    PressKey("T") Sleep(50)
+    PressKey("3") Sleep(50)
+    Sleep(970) 
+    MoveMouseRelative( 0, 100)
+    Sleep(1455) 
+    MoveMouseRelative( 0, -100)
+    Sleep(1940) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( -250, 0)
+    PressKey("W") Sleep(64)
+    Sleep(3500) 
+    ReleaseMouseButton(1) Sleep(64)
+    ReleaseKey("W") Sleep(64)
+    Sleep(16000) 
+    
+    --Comment 到三基佬
+    
+    
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    
+    Sleep(2100) 
+    
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    Sleep(1000) 
+    PressMouseButton(1) Sleep(100)
+    Sleep(1000) 
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    Sleep(300)
+    PressKey("W") Sleep(100)
+    PressKey("D") Sleep(725) 
+    ReleaseKey("D") Sleep(100)
+    PressMouseButton(1) Sleep(100)
+    Sleep(1100) 
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    Sleep(2300) 
+    Sleep(800) 
+    
+    Sleep(50)   --100
+    
+    MoveMouseRelative( -1000, 50)
+    Sleep(200)
+    
+    PressMouseButton(1) Sleep(30)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    Sleep(1100) 
+    Sleep(700) 
+    MoveMouseRelative( 990, 0)
+    Sleep(2500) 
+    ReleaseKey("W") Sleep(100)
+    
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    MoveMouseRelative( 20, -40)
+    Sleep(3000) 
+    MoveMouseRelative( -20, 40)
+    PressKey("W") Sleep(300)
+    ReleaseMouseButton(1) Sleep(100)
+    
+    Sleep(2300)    --2500 控制打完大锤往里走的距离，打不开火把改这
+    
+    MoveMouseRelative( 1250, 0)
+    Sleep(1500) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( 1250, 0)
+    PressKey("W") Sleep(200)
+    PressKey("A") Sleep(200)
+    Sleep(200)
+    ReleaseKey("A") Sleep(0) 
+    ReleaseKey("W") Sleep(0) 
+    
+    PressKey("E") Sleep(100)    --火把
+    
+    ReleaseKey("W") Sleep(100)
+    Sleep(10000) 
+    ReleaseKey("E") Sleep(64)
+    Sleep(11000) 
+    PressKey("S") Sleep(460) 
+    ReleaseKey("S") Sleep(64)
+    MoveMouseRelative( -1250, -100)
+    PressKey("W") Sleep(1550) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( 500, 0)
+    Sleep(64)
+    
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    Sleep(100)
+    MoveMouseRelative( -500, 100)
+    PressKey("W") Sleep(200)
+    
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    ReleaseKey("W") Sleep(64)
+    Sleep(200)
+    PressKey("E") Sleep(100)
+    
+    PressKey("T") Sleep(100)
+    PressKey("3") Sleep(100)
+    ReleaseKey("3") Sleep(100)
+    ReleaseKey("T") Sleep(100)
+    PressKey("T") Sleep(100)
+    PressKey("3") Sleep(100)
+    ReleaseKey("3") Sleep(100)
+    ReleaseKey("T") Sleep(100)
+    
+    PressKey("4") Sleep(100)
+    ReleaseKey("4") Sleep(100)
+    PressKey("4") Sleep(100)
+    ReleaseKey("4") Sleep(100)
+    
+    Sleep(4600) 
+    ReleaseKey("E") Sleep(64)
+    MoveMouseTo( 32648,21744)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击选择类型
+    
+    MoveMouseTo( 30326,29093)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击僵尸番外
+    
+    MoveMouseTo( 27525,39054)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 地图选择
+    
+    MoveMouseTo( 40298,29214)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 法老
+    
+    MoveMouseTo( 39683,33162)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击中途加入
+    
+    MoveMouseTo( 41493,36867)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击关闭观战
+    
+    MoveMouseTo( 25169,45006)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    
+    
+    --Comment 点击开启密码
+    
+    MoveMouseTo( 28243,48286)
+    Sleep(100) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    PressKey("1") Sleep(64)
+    ReleaseKey("1") Sleep(64) 
+    PressKey("2") Sleep(64) 
+    ReleaseKey("2") Sleep(64) 
+    PressKey("0") Sleep(64) 
+    ReleaseKey("0") Sleep(64) 
+    PressKey("6") Sleep(64) 
+    ReleaseKey("6") Sleep(64) 
+    
+    
+    --Comment 确认进入房间
+    
+    MoveMouseTo( 29745,54420)
+    Sleep(500) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64)
+    
+    --Comment 点击开始游戏
+    
+    MoveMouseTo( 53691,41688 )
+    Sleep(500) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    MoveMouseRelative( 1, 1)
+    Sleep(64) 
+    PressMouseButton(1) Sleep(64) 
+    ReleaseMouseButton(1) Sleep(64) 
+    Sleep(200)
+    PressKey("enter") Sleep(200)
+    ReleaseKey("enter")Sleep(200)
+    PressKey("enter")Sleep(200)
+    ReleaseKey("enter")Sleep(200)
+    Sleep(200)
+    
+    
+    
+    Sleep(52000)     --进图动画
+    
+    PressKey("W") Sleep(3200) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( -1120, -10)
+    PressKey("W") Sleep(100)
+    PressMouseButton(1) Sleep(100)
+    Sleep(200)
+    PressKey("T") Sleep(100)
+    PressKey("6") Sleep(100)
+    ReleaseKey("6") Sleep(100)
+    ReleaseKey("T") Sleep(100)
+    Sleep(1140) 
+    MoveMouseRelative( 0, 20)
+    Sleep(1650) 
+    MoveMouseRelative( 0, 50)
+    PressKey("T") Sleep(50)
+    PressKey("3") Sleep(50)
+    Sleep(970) 
+    MoveMouseRelative( 0, 100)
+    Sleep(1455) 
+    MoveMouseRelative( 0, -100)
+    Sleep(1940) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( -250, 0)
+    PressKey("W") Sleep(64)
+    Sleep(3500) 
+    ReleaseMouseButton(1) Sleep(64)
+    ReleaseKey("W") Sleep(64)
+    Sleep(16000) 
+    
+    --Comment 到三基佬
+    
+    
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    
+    Sleep(2100) 
+    
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    PressKey("V") Sleep(100)
+    ReleaseKey("V") Sleep(100)
+    Sleep(1000) 
+    PressMouseButton(1) Sleep(100)
+    Sleep(1000) 
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    Sleep(300)
+    PressKey("W") Sleep(100)
+    PressKey("D") Sleep(725) 
+    ReleaseKey("D") Sleep(100)
+    PressMouseButton(1) Sleep(100)
+    Sleep(1100) 
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    Sleep(2300) 
+    Sleep(800) 
+    
+    Sleep(50)   --100
+    
+    MoveMouseRelative( -1000, 50)
+    Sleep(200)
+    
+    PressMouseButton(1) Sleep(30)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    Sleep(1100) 
+    Sleep(700) 
+    MoveMouseRelative( 990, 0)
+    Sleep(2500) 
+    ReleaseKey("W") Sleep(100)
+    
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    MoveMouseRelative( 20, -40)
+    Sleep(3000) 
+    MoveMouseRelative( -20, 40)
+    PressKey("W") Sleep(300)
+    ReleaseMouseButton(1) Sleep(100)
+    
+    Sleep(2300)    --2500 控制打完大锤往里走的距离，打不开火把改这
+    
+    MoveMouseRelative( 1250, 0)
+    Sleep(1500) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( 1250, 0)
+    PressKey("W") Sleep(200)
+    PressKey("A") Sleep(200)
+    Sleep(200)
+    ReleaseKey("A") Sleep(0) 
+    ReleaseKey("W") Sleep(0) 
+    
+    PressKey("E") Sleep(100)    --火把
+    
+    ReleaseKey("W") Sleep(100)
+    Sleep(10000) 
+    ReleaseKey("E") Sleep(64)
+    Sleep(11000) 
+    PressKey("S") Sleep(460) 
+    ReleaseKey("S") Sleep(64)
+    MoveMouseRelative( -1250, -100)
+    PressKey("W") Sleep(1550) 
+    ReleaseKey("W") Sleep(64)
+    MoveMouseRelative( 500, 0)
+    Sleep(64)
+    
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    Sleep(100)
+    MoveMouseRelative( -500, 100)
+    PressKey("W") Sleep(200)
+    
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    PressMouseButton(3) Sleep(100)
+    ReleaseMouseButton(3) Sleep(100)
+    
+    ReleaseKey("W") Sleep(64)
+    Sleep(200)
+    PressKey("E") Sleep(100)
+    
+    PressKey("T") Sleep(100)
+    PressKey("3") Sleep(100)
+    ReleaseKey("3") Sleep(100)
+    ReleaseKey("T") Sleep(100)
+    PressKey("T") Sleep(100)
+    PressKey("3") Sleep(100)
+    ReleaseKey("3") Sleep(100)
+    ReleaseKey("T") Sleep(100)
+    
+    PressKey("4") Sleep(100)
+    ReleaseKey("4") Sleep(100)
+    PressKey("4") Sleep(100)
+    ReleaseKey("4") Sleep(100)
+    
+    Sleep(4600) 
+    ReleaseKey("E") Sleep(64)
